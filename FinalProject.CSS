@@ -1,0 +1,68 @@
+body{
+    background-color: mediumpurple;
+}
+#blueBraidsPhoto{
+    width: 500px;
+    height: 500px;
+}
+#myDiv{
+    padding: 15px;
+    margin: auto;
+    text-align: center;
+    border: 20px solid purple;
+    background-color: powderblue;
+    outline: 10px double purple;
+}
+#descriptionDiv1{
+    background-color: whitesmoke;
+    width: 70%;
+    border: 10px solid purple;
+    outline: 10px double purple;
+}
+#descriptionDiv2{
+    background-color: whitesmoke;
+    width: 70%;
+    border: 10px solid purple;
+    outline: 10px double purple;
+}
+#descriptionDiv3{
+    background-color: whitesmoke;
+    width: 70%;
+    border: 10px solid purple;
+    outline: 10px double purple;
+}
+#messageDiv1{
+    background-color: whitesmoke;
+    width:125px;
+    height:35px;
+    border: 5px solid mediumturquoise;
+    outline: 5px double mediumturquoise;
+}
+#messageDiv2{
+    background-color: whitesmoke;
+    width:125px;
+    height:35px;
+    border: 5px solid mediumturquoise;
+    outline: 5px double mediumturquoise;
+}
+#messageDiv3{
+    background-color: whitesmoke;
+    width:125px;
+    height:35px;
+    border: 5px solid mediumturquoise;
+    outline: 5px double mediumturquoise;
+}
+#messageDiv4{
+    background-color: whitesmoke;
+    width:125px;
+    height:35px;
+    border: 5px solid mediumturquoise;
+    outline: 5px double mediumturquoise;
+}
+#messageDiv5{
+    background-color: whitesmoke;
+    width:125px;
+    height:35px;
+    border: 5px solid mediumturquoise;
+    outline: 5px double mediumturquoise;
+}
